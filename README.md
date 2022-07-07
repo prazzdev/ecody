@@ -1,1 +1,1 @@
-# ecody
+# Ecody | Student E-Commerce
